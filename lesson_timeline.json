@@ -1,0 +1,74 @@
+[
+  {
+    "scene_name": "Scene1TitleHook",
+    "narration": "Welcome to Chemical Equilibrium: reactions that keep going while appearing stable.",
+    "visual_action": "Title reveal, subtitle fade-in, reversible arrow with particle accents.",
+    "learner_pause_question": "What does the double arrow suggest about reaction direction?"
+  },
+  {
+    "scene_name": "Scene2DynamicEquilibrium",
+    "narration": "Forward and reverse reactions happen at the same time in a closed system.",
+    "visual_action": "ParticleBox shows two-way particle motion with Haber reaction equation.",
+    "learner_pause_question": "Does equilibrium mean particles stop moving?"
+  },
+  {
+    "scene_name": "Scene3RateVsTimeGraph",
+    "narration": "Forward rate decreases while reverse rate increases until they are equal.",
+    "visual_action": "Graph curves draw and meet at an equilibrium level.",
+    "learner_pause_question": "What stays equal at equilibrium: rate or concentration values?"
+  },
+  {
+    "scene_name": "Scene4LeChatelier",
+    "narration": "When disturbed, equilibrium shifts to oppose the disturbance.",
+    "visual_action": "Balanced system tilts, then arrow shows corrective shift.",
+    "learner_pause_question": "How would you explain 'the system fights back' in science words?"
+  },
+  {
+    "scene_name": "Scene5ConcentrationChange",
+    "narration": "Adding reactant drives the reaction right to consume what was added.",
+    "visual_action": "Extra reactant particles enter; shift-right label appears.",
+    "learner_pause_question": "Which side gets favored when reactant concentration increases?"
+  },
+  {
+    "scene_name": "Scene6PressureChange",
+    "narration": "Increasing pressure favors the side with fewer gas moles.",
+    "visual_action": "Container compresses; 4 mol to 2 mol comparison and shift-right arrow.",
+    "learner_pause_question": "Why does pressure only matter for gaseous equilibrium species?"
+  },
+  {
+    "scene_name": "Scene7TemperatureChange",
+    "narration": "For exothermic reactions, heat acts like a product, so heating shifts left.",
+    "visual_action": "Heat indicator appears and shift-left explanation is shown.",
+    "learner_pause_question": "If temperature decreases in an exothermic reaction, which way would it shift?"
+  },
+  {
+    "scene_name": "Scene8Catalyst",
+    "narration": "A catalyst lowers activation energy but does not change equilibrium position.",
+    "visual_action": "Two energy profiles show lowered barrier with catalyst.",
+    "learner_pause_question": "What exactly does a catalyst change: position or speed to equilibrium?"
+  },
+  {
+    "scene_name": "Scene9ExperimentVisualiser",
+    "narration": "Compare disturbances in two closed systems and watch new equilibrium states.",
+    "visual_action": "Dual flasks with temperature and concentration disturbances and visible changes.",
+    "learner_pause_question": "Why must these demonstrations be in sealed containers?"
+  },
+  {
+    "scene_name": "Scene10ExamMethod",
+    "narration": "Use this six-step method to structure every equilibrium exam answer.",
+    "visual_action": "Large readable step list appears one line at a time.",
+    "learner_pause_question": "Which step helps most with pressure-based questions?"
+  },
+  {
+    "scene_name": "Scene11PracticeQuestion",
+    "narration": "Practice exam logic: pressure increase in the Haber reaction raises ammonia yield.",
+    "visual_action": "Mole count, pressure increase, right shift, and yield conclusion animated.",
+    "learner_pause_question": "Can you state the final answer in one full scientific sentence?"
+  },
+  {
+    "scene_name": "Scene12FinalRecap",
+    "narration": "Final table summary: change, shift direction, and scientific reason.",
+    "visual_action": "Recap table appears with key exam rules.",
+    "learner_pause_question": "Which row do you still confuse and need to revise?"
+  }
+]
